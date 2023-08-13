@@ -234,7 +234,7 @@
 
             if (typeof gistId === 'undefined' || gistId === '') {
                 this.isHomepage = true;
-                gistId = '7442b083383908d7c925981ff082fea7';
+                gistId = '5f793cccf9d82282a303c5676804f0aa';
             }
 
             // load the gist
