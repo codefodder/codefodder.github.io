@@ -345,7 +345,7 @@
                                 level: 1,
                                 permalink: true,
                                 permalinkClass: 'header-anchor',
-                                permalinkSymbol: '¶',
+                                permalinkSymbol: '🔗',
                                 permalinkBefore: true,
                                 slugify: str => {
                                     // use custom slugify function, which reassembles the GitHub way of creating anchors
